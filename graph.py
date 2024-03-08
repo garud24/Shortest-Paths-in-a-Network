@@ -1,8 +1,3 @@
-'''
-Name: Himanshu Kiran Garud
-Student ID: 801365910
-Email ID: hgarud@uncc.edu
-'''
 
 import numpy as np
 import math
